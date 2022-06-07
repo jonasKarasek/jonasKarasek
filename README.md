@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://github.com/jonasKarasek">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasKarasek&card_width=240&layout=compact&langs_count=10 &border_radius=15&bg_color=000000&border_color=ffff00&hide_border=true&title_color=FF7800&text_color=00C618"/>
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=jonasKarasek&show_icons=true&include_all_commits=true&count_private=true&border_radius=15&bg_color=000000&border_color=ffff00&hide_rank=true&hide_border=true&title_color=FF7800&text_color=00C618&icon_color=133CAC"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=jonasKarasek&show_icons=true&include_all_commits=true&count_private=true&border_radius=15&bg_color=000000&border_color=ffff00&hide_rank=true&hide_border=true&title_color=FF7800&text_color=00C618&icon_color=133CAC&hide=stars"/>
    </div>
   
 <div align="center" style="display: inline_block"><br>  

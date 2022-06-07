@@ -2,9 +2,9 @@
 
 <div align="center">
   <a href="https://github.com/jonasKarasek">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonasKarasek&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasKarasek&layout=compact&langs_count=7&theme=great-gatsby"/>
-</div>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasKarasek&card_width=240&layout=compact&langs_count=10 &border_radius=15&bg_color=000000&border_color=ffff00&hide_border=true&title_color=FF7800&text_color=00C618"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=jonasKarasek&show_icons=true&include_all_commits=true&count_private=true&border_radius=15&bg_color=000000&border_color=ffff00&hide_rank=true&hide_border=true&title_color=FF7800&text_color=00C618&icon_color=133CAC"/>
+   </div>
   
 <div align="center" style="display: inline_block"><br>  
   <img align="center" alt="Jonas-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
@@ -19,7 +19,7 @@
   ##
   
 <div align="center">
-  <a href = "mailto:jonas.karasek@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:jonas.karasek@hotmail.com"><img src="https://img.shields.io/badge/-email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jkarasek" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>

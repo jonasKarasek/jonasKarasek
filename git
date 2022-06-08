@@ -1,0 +1,13 @@
+git config --global user.name "Name"
+git config --global user.email "Email"
+git config --list
+
+git init
+git remote add origin https
+git pull origin main
+git status
+git add .
+git commit -m "name"
+git push -u origin main
+
+.git -> config -> git@
